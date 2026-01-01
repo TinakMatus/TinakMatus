@@ -18,7 +18,7 @@ This is my main "Daily Driver." It isn't just a window manager; it's a hand-craf
 
 🛠️ Built in C: Every component (dwm, st, dwmblocks) is patched and compiled from source.
 
-👉 more info in [dwm-config](https://github.com/[TinakMatus]/dwm-config)
+👉 more info in [dwm-config](https://github.com/TinakMatus/dwm-config)
 
 🚀 Future Projects: The Home Lab
 
