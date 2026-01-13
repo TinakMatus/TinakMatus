@@ -1,6 +1,6 @@
 ## Hi there I'm Matúš Tinák 👋
 
-Iam a minimalist by choice and a Linux enthusiast by necessity.
+I am a minimalist by choice and a Linux enthusiast by necessity.
 
 ## About Me
 
@@ -16,11 +16,11 @@ Iam a minimalist by choice and a Linux enthusiast by necessity.
 
 ## Featured Project: The Suckless Environment
 
-This is my main Daily Driver. It isn't just a window manager. It is a handcrafted ecosystem I built to fit my exact workflow.
+This is my main Daily Driver. It isnt just a window manager. It is a handcrafted ecosystem I built to fit my exact workflow.
 
 * Built in C: Every component is patched and compiled from source.
 
-* more info in [dwm-config](https://github.com/TinakMatus/dwm-config)
+* More info in [dwm-config](https://github.com/TinakMatus/dwm-config)
 
 
 
