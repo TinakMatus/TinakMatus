@@ -10,7 +10,7 @@ I am a minimalist by choice and a Linux enthusiast by necessity.
 
 * Goal: Diving into C to master the tools I rely on daily.
 
-* Philosophy: I believe software should be simple, incredibly fast, and stay out of the user's way.
+* Philosophy: I believe software should be simple incredibly fast, and stay out of the users way.
 
 
 
