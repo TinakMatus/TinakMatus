@@ -16,7 +16,7 @@ I am a minimalist by choice and a Linux enthusiast by necessity.
 
 ## Featured Project: The Suckless Environment
 
-This is my main Daily Driver. It isnt just a window manager. It is a handcrafted ecosystem I built to fit my exact workflow.
+This is my main Daily Driver It isnt just a window manager. It is a handcrafted ecosystem I built to fit my exact workflow.
 
 * Built in C: Every component is patched and compiled from source.
 
