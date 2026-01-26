@@ -1,4 +1,4 @@
-## Hi there I'm Matúš Tinák 👋
+## Hi there I am Matúš Tinák 👋
 
 I am a minimalist by choice and a Linux enthusiast by necessity.
 
